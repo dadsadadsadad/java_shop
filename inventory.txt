@@ -1,0 +1,15 @@
+Apple
+50.0
+100
+Banana
+30.0
+50
+Mango
+40.0
+65
+Pineapple
+50.0
+80
+Watermelon
+60.0
+20
